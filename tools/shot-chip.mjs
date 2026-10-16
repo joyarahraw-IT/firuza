@@ -1,0 +1,22 @@
+// Delivery chip checks: card at 1440 (full text, one line) and rug card at 375 (short text, no wrap)
+import puppeteer from 'puppeteer-core';
+import { fileURLToPath } from 'node:url';
+const out = (n) => fileURLToPath(new URL(`../screenshots/${n}`, import.meta.url));
+const b = await puppeteer.launch({ executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe', headless: true, args: ['--no-sandbox'] });
+const measure = (pg) => pg.evaluate(() => [...document.querySelectorAll('a.lift')].slice(0, 8).map((a) => { const c = [...a.querySelectorAll('span')].find((s) => s.title); if (!c) return null; const vis = [...c.querySelectorAll('span[aria-hidden]')].find((s) => s.offsetParent !== null); const r = c.getBoundingClientRect(); const cr = a.getBoundingClientRect(); return { text: vis?.textContent, h: Math.round(r.height), right: Math.round(r.right), cardRight: Math.round(cr.right), lines: vis ? Math.round(vis.getBoundingClientRect().height / parseFloat(getComputedStyle(vis).lineHeight)) : 0 }; }));
+let pg = await b.newPage();
+await pg.setViewport({ width: 1440, height: 900, deviceScaleFactor: 1 });
+await pg.goto('http://localhost:3000/collares', { waitUntil: 'load' });
+await new Promise((r) => setTimeout(r, 1500));
+console.log('1440', JSON.stringify((await measure(pg)).slice(0, 4)));
+const card = await pg.$('a.lift');
+await card.screenshot({ path: out('chip-card-1440.png') });
+pg = await b.newPage();
+await pg.setViewport({ width: 375, height: 812, deviceScaleFactor: 2 });
+const res = await pg.goto('http://localhost:3001/alfombras-kilims', { waitUntil: 'load' });
+await new Promise((r) => setTimeout(r, 1500));
+const m = await measure(pg);
+console.log('375 rugs', res.status(), JSON.stringify(m.slice(0, 4)));
+const rc = await pg.$('a.lift');
+if (rc) await rc.screenshot({ path: out('chip-rug-375.png') });
+await b.close();

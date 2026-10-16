@@ -1,0 +1,558 @@
+[
+ {
+  "slug": "collar-azul-dorado",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-azul-dorado-1",
+    "role": "main",
+    "source": "photo_2_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-largo-azul-marino-flores",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": "photo includes matching earrings",
+  "images": [
+   {
+    "file": "collar-largo-azul-marino-flores-1",
+    "role": "main",
+    "source": "photo_3_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-azul-dorado-perlas",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": "photo includes matching earrings",
+  "images": [
+   {
+    "file": "collar-azul-dorado-perlas-1",
+    "role": "main",
+    "source": "photo_4_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-largo-perlas-azules",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-largo-perlas-azules-1",
+    "role": "main",
+    "source": "photo_7_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-perlas-verdes",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-perlas-verdes-1",
+    "role": "main",
+    "source": "photo_10_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-babero-rojo-negro",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-babero-rojo-negro-1",
+    "role": "main",
+    "source": "photo_12_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-granate-perlas",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": "photo includes matching earrings",
+  "images": [
+   {
+    "file": "collar-granate-perlas-1",
+    "role": "main",
+    "source": "photo_13_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-flecos-verde-oliva",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-flecos-verde-oliva-1",
+    "role": "main",
+    "source": "photo_14_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-rojo-cadena-dorada",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-rojo-cadena-dorada-1",
+    "role": "main",
+    "source": "photo_15_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-azul-turquesa-negro",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-azul-turquesa-negro-1",
+    "role": "main",
+    "source": "photo_16_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-perlas-granate",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-perlas-granate-1",
+    "role": "main",
+    "source": "photo_19_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-perlas-cristal-verde",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": "photo includes matching earrings",
+  "images": [
+   {
+    "file": "collar-perlas-cristal-verde-1",
+    "role": "main",
+    "source": "photo_23_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-azul-cristal-negro",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-azul-cristal-negro-1",
+    "role": "main",
+    "source": "photo_24_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "collar-dorado-gotas-verdes",
+  "category": "necklaces",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "collar-dorado-gotas-verdes-1",
+    "role": "main",
+    "source": "photo_26_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pulsera-perlas-cuatro-modelos",
+  "category": "bracelets",
+  "needs_real_photo": false,
+  "note": "4 bracelets in one photo -> options Modelo 1-4",
+  "images": [
+   {
+    "file": "pulsera-perlas-cuatro-modelos-1",
+    "role": "main",
+    "source": "photo_20_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pulsera-perlas-azul-claro",
+  "category": "bracelets",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "pulsera-perlas-azul-claro-1",
+    "role": "main",
+    "source": "photo_1_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pulsera-ancha-ambar",
+  "category": "bracelets",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "pulsera-ancha-ambar-1",
+    "role": "main",
+    "source": "photo_5_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pulsera-flores-pastel",
+  "category": "bracelets",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "pulsera-flores-pastel-1",
+    "role": "main",
+    "source": "photo_6_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pulsera-negra-amarilla",
+  "category": "bracelets",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "pulsera-negra-amarilla-1",
+    "role": "main",
+    "source": "photo_9_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pulsera-perlas-negro-dorado",
+  "category": "bracelets",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "pulsera-perlas-negro-dorado-1",
+    "role": "main",
+    "source": "photo_11_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pulsera-perlas-rojo-blanco-cierre",
+  "category": "bracelets",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "pulsera-perlas-rojo-blanco-cierre-1",
+    "role": "main",
+    "source": "photo_17_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pulsera-elastica-rojo-blanco",
+  "category": "bracelets",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "pulsera-elastica-rojo-blanco-1",
+    "role": "main",
+    "source": "photo_22_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pendientes-artesanales",
+  "category": "earrings",
+  "needs_real_photo": false,
+  "note": "4 pairs in one photo -> options Modelo 1-4",
+  "images": [
+   {
+    "file": "pendientes-artesanales-1",
+    "role": "main",
+    "source": "photo_25_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "pendientes-largos-turquesa",
+  "category": "earrings",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "pendientes-largos-turquesa-1",
+    "role": "main",
+    "source": "photo_28_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "bolso-crochet-cuadros",
+  "category": "crochet",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "bolso-crochet-cuadros-1",
+    "role": "main",
+    "source": "photo_8_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "zapatillas-crochet",
+  "category": "crochet",
+  "needs_real_photo": false,
+  "note": "two colours in photo: cream, coral",
+  "images": [
+   {
+    "file": "zapatillas-crochet-1",
+    "role": "main",
+    "source": "photo_18_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "cartera-crochet",
+  "category": "crochet",
+  "needs_real_photo": false,
+  "note": "two colours in photo: brown, pink",
+  "images": [
+   {
+    "file": "cartera-crochet-1",
+    "role": "main",
+    "source": "photo_21_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "top-crochet-halter-crudo",
+  "category": "crochet",
+  "needs_real_photo": false,
+  "note": null,
+  "images": [
+   {
+    "file": "top-crochet-halter-crudo-1",
+    "role": "main",
+    "source": "photo_27_2026-10-05_13-27-36.jpg"
+   }
+  ]
+ },
+ {
+  "slug": "alfombra-roja-geometrica",
+  "category": "rugs",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "alfombra-roja-geometrica-1",
+    "role": "main",
+    "source": "a_Professional_product (3).jpeg"
+   },
+   {
+    "file": "alfombra-roja-geometrica-2",
+    "role": "alt",
+    "source": "b_Professional_product (3).jpeg"
+   }
+  ]
+ },
+ {
+  "slug": "alfombra-medallon-negro",
+  "category": "rugs",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "alfombra-medallon-negro-1",
+    "role": "main",
+    "source": "a_Professional_product (2).jpeg"
+   },
+   {
+    "file": "alfombra-medallon-negro-2",
+    "role": "alt",
+    "source": "b_Professional_product (2).jpeg"
+   }
+  ]
+ },
+ {
+  "slug": "alfombra-tribal-rojo",
+  "category": "rugs",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "alfombra-tribal-rojo-1",
+    "role": "main",
+    "source": "a_Professional_product (1).jpeg"
+   },
+   {
+    "file": "alfombra-tribal-rojo-2",
+    "role": "alt",
+    "source": "b_Professional_product (1).jpeg"
+   }
+  ]
+ },
+ {
+  "slug": "kilim-multicolor",
+  "category": "rugs",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "kilim-multicolor-1",
+    "role": "main",
+    "source": "a_Professional_product.jpeg"
+   },
+   {
+    "file": "kilim-multicolor-2",
+    "role": "alt",
+    "source": "b_Professional_product.jpeg"
+   }
+  ]
+ },
+ {
+  "slug": "vestido-macrame-crudo",
+  "category": "knitwear",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "vestido-macrame-crudo-1",
+    "role": "main",
+    "source": "b_{__task____Create_ (2).png"
+   },
+   {
+    "file": "vestido-macrame-crudo-2",
+    "role": "worn",
+    "source": "b_{__task____Generat.jpeg"
+   },
+   {
+    "file": "vestido-macrame-crudo-3",
+    "role": "detail",
+    "source": "b_{__task____Create_ (1).jpeg"
+   },
+   {
+    "file": "vestido-macrame-crudo-4",
+    "role": "detail",
+    "source": "a_{__task____Create_.png"
+   },
+   {
+    "file": "vestido-macrame-crudo-5",
+    "role": "detail-texture",
+    "source": "a_{__task____Create_.png"
+   },
+   {
+    "file": "vestido-macrame-crudo-6",
+    "role": "detail",
+    "source": "a_{__task____Create_ (1).png"
+   }
+  ]
+ },
+ {
+  "slug": "jersey-poncho-crochet-rosa",
+  "category": "knitwear",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "jersey-poncho-crochet-rosa-1",
+    "role": "main",
+    "source": "b_{__task____Generat (1).jpeg"
+   },
+   {
+    "file": "jersey-poncho-crochet-rosa-2",
+    "role": "flat",
+    "source": "b_{__task____Create_ (1).png"
+   },
+   {
+    "file": "jersey-poncho-crochet-rosa-3",
+    "role": "detail",
+    "source": "b_{__task____Create_ (1).png"
+   }
+  ]
+ },
+ {
+  "slug": "conjunto-top-verde-falda-beige",
+  "category": "knitwear",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "conjunto-top-verde-falda-beige-1",
+    "role": "main",
+    "source": "Max_a_{__task____Create_.png"
+   },
+   {
+    "file": "conjunto-top-verde-falda-beige-2",
+    "role": "worn",
+    "source": "Max_a_{__task____Generat.png"
+   },
+   {
+    "file": "conjunto-top-verde-falda-beige-3",
+    "role": "angle",
+    "source": "Max_a_{__task____Create_ (1).png"
+   },
+   {
+    "file": "conjunto-top-verde-falda-beige-4",
+    "role": "detail",
+    "source": "Max_a_{__task____Create_.png"
+   }
+  ]
+ },
+ {
+  "slug": "top-crochet-conchas-crudo",
+  "category": "knitwear",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "top-crochet-conchas-crudo-1",
+    "role": "main",
+    "source": "b_Extreme_macro_close-.png"
+   },
+   {
+    "file": "top-crochet-conchas-crudo-2",
+    "role": "detail",
+    "source": "a_Extreme_macro_close-.png"
+   }
+  ]
+ },
+ {
+  "slug": "top-crochet-terracota",
+  "category": "knitwear",
+  "needs_real_photo": true,
+  "note": null,
+  "images": [
+   {
+    "file": "top-crochet-terracota-1",
+    "role": "main",
+    "source": "b_Professional_e-comme.png"
+   }
+  ]
+ }
+]

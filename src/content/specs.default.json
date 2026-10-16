@@ -1,0 +1,147 @@
+{
+  "collar-azul-dorado": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-largo-azul-marino-flores": {
+    "length_cm": 75,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-azul-dorado-perlas": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-largo-perlas-azules": {
+    "length_cm": 75,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-perlas-verdes": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-babero-rojo-negro": {
+    "length_cm": 40,
+    "weight_g": 90,
+    "provisional": true
+  },
+  "collar-granate-perlas": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-flecos-verde-oliva": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-rojo-cadena-dorada": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-azul-turquesa-negro": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-perlas-granate": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-perlas-cristal-verde": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-azul-cristal-negro": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "collar-dorado-gotas-verdes": {
+    "length_cm": 45,
+    "weight_g": 40,
+    "provisional": true
+  },
+  "pulsera-perlas-cuatro-modelos": {
+    "length_cm": 18,
+    "weight_g": 15,
+    "provisional": true
+  },
+  "pulsera-perlas-azul-claro": {
+    "length_cm": 18,
+    "weight_g": 15,
+    "provisional": true
+  },
+  "pulsera-ancha-ambar": {
+    "length_cm": 18,
+    "weight_g": 15,
+    "provisional": true
+  },
+  "pulsera-flores-pastel": {
+    "length_cm": 18,
+    "weight_g": 15,
+    "provisional": true
+  },
+  "pulsera-negra-amarilla": {
+    "length_cm": 18,
+    "weight_g": 15,
+    "provisional": true
+  },
+  "pulsera-perlas-negro-dorado": {
+    "length_cm": 18,
+    "weight_g": 15,
+    "provisional": true
+  },
+  "pulsera-perlas-rojo-blanco-cierre": {
+    "length_cm": 18,
+    "weight_g": 15,
+    "provisional": true
+  },
+  "pulsera-elastica-rojo-blanco": {
+    "length_cm": 18,
+    "weight_g": 15,
+    "provisional": true
+  },
+  "pendientes-artesanales": {
+    "drop_cm": 6,
+    "weight_g": 8,
+    "provisional": true
+  },
+  "pendientes-largos-turquesa": {
+    "drop_cm": 14,
+    "weight_g": 8,
+    "provisional": true
+  },
+  "bolso-crochet-cuadros": {
+    "width_cm": 30,
+    "height_cm": 24,
+    "depth_cm": 12,
+    "strap_drop_cm": 25,
+    "provisional": true
+  },
+  "cartera-crochet": {
+    "width_cm": 20,
+    "height_cm": 14,
+    "depth_cm": 2,
+    "provisional": true
+  },
+  "alfombra-roja-geometrica": {
+    "knots_dm2": 1000,
+    "provisional": true
+  },
+  "alfombra-medallon-negro": {
+    "knots_dm2": 1000,
+    "provisional": true
+  },
+  "alfombra-tribal-rojo": {
+    "knots_dm2": 1000,
+    "provisional": true
+  }
+}

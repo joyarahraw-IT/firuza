@@ -1,0 +1,13 @@
+import puppeteer from 'puppeteer-core';
+import { fileURLToPath } from 'node:url';
+const out = (n) => fileURLToPath(new URL(`../screenshots/${n}`, import.meta.url));
+const b = await puppeteer.launch({ executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe', headless: true, args: ['--no-sandbox'] });
+const pg = await b.newPage(); await pg.setViewport({ width: 1440, height: 900 });
+await pg.goto('http://localhost:3005/', { waitUntil: 'load' });
+await pg.screenshot({ path: out('home-mosaic-1440-fold.png') });
+const href = await pg.evaluate(() => document.querySelector('a[href^="/producto/"]').getAttribute('href'));
+await pg.goto('http://localhost:3005' + href, { waitUntil: 'load' }); await new Promise(r=>setTimeout(r,1500));
+await pg.screenshot({ path: out('producto-mosaic-1440.png'), fullPage: true });
+await pg.goto('http://localhost:3005/bolsa', { waitUntil: 'load' }); await new Promise(r=>setTimeout(r,1000));
+await pg.screenshot({ path: out('bolsa-granada-1440.png') });
+await b.close(); console.log(href);

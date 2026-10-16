@@ -1,0 +1,2523 @@
+[
+  {
+    "slug": "collar-azul-dorado",
+    "name": "Collar azul y dorado con gotas",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Collar corto de cuentas azules y doradas, con pequeñas gotas colgando en la parte delantera. Pensado para escote redondo o camisa abierta.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Azul y dorado",
+        "hex": "#2b4aa0"
+      }
+    ],
+    "base_price_cents": 5290,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 5290
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 890
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-azul-dorado-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-largo-azul-marino-flores",
+    "name": "Collar largo azul marino con florecillas",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Collar largo de cuentas azul marino con pequeñas florecillas claras repartidas por todo el hilo. Se puede llevar solo o con los pendientes a juego.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Azul marino y blanco",
+        "hex": "#1f2a5c"
+      }
+    ],
+    "base_price_cents": 5990,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      },
+      {
+        "name": "Conjunto",
+        "required": true,
+        "values": [
+          "Solo collar",
+          "Collar + pendientes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal",
+          "Conjunto": "Solo collar"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal",
+          "Conjunto": "Collar + pendientes"
+        },
+        "price_cents": 7890
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas",
+          "Conjunto": "Solo collar"
+        },
+        "price_cents": 990
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas",
+          "Conjunto": "Collar + pendientes"
+        },
+        "price_cents": 1390
+      }
+    ],
+    "set_earrings_stone_cents": 2790,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-largo-azul-marino-flores-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-azul-dorado-perlas",
+    "name": "Collar de flores azules y dorado",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Varias vueltas finas doradas con florecillas de cuentas azules. Lo puedes pedir con los pendientes a juego.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Azul y dorado",
+        "hex": "#2b4aa0"
+      }
+    ],
+    "base_price_cents": 5490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      },
+      {
+        "name": "Conjunto",
+        "required": true,
+        "values": [
+          "Solo collar",
+          "Collar + pendientes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal",
+          "Conjunto": "Solo collar"
+        },
+        "price_cents": 5490
+      },
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal",
+          "Conjunto": "Collar + pendientes"
+        },
+        "price_cents": 7390
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas",
+          "Conjunto": "Solo collar"
+        },
+        "price_cents": 890
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas",
+          "Conjunto": "Collar + pendientes"
+        },
+        "price_cents": 1290
+      }
+    ],
+    "set_earrings_stone_cents": 2690,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-azul-dorado-perlas-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-largo-perlas-azules",
+    "name": "Collar largo de perlas con florecillas azules",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Collar largo de perlas blancas con pequeños detalles azules y cierre de mosquetón. Cae suave sobre el pecho.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Blanco y azul",
+        "hex": "#3a4fa6"
+      }
+    ],
+    "base_price_cents": 6290,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 6290
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 1090
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-largo-perlas-azules-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-perlas-verdes",
+    "name": "Collar de cuentas verdes y perlas",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Cuentas verdes facetadas junto a una hilera de perlas blancas, con una perla mayor como remate delantero.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Verde y blanco",
+        "hex": "#2f9a5a"
+      }
+    ],
+    "base_price_cents": 6490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 6490
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 1090
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-perlas-verdes-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-babero-rojo-negro",
+    "name": "Collar babero rojo y negro",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      5,
+      8
+    ],
+    "description": "Collar tipo babero de red de cuentas negras con gotas rojas colgando en el borde. Una pieza de protagonista para un escote abierto.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Rojo y negro",
+        "hex": "#a8201f"
+      }
+    ],
+    "base_price_cents": 8990,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 8990
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 1490
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": true,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-babero-rojo-negro-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-granate-perlas",
+    "name": "Collar largo granate y perlas",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Hilo de cuentas granate junto a tres vueltas de perlas blancas, con una gota granate al final. Se puede pedir con pendientes a juego.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Granate y blanco",
+        "hex": "#7a1230"
+      }
+    ],
+    "base_price_cents": 7490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      },
+      {
+        "name": "Conjunto",
+        "required": true,
+        "values": [
+          "Solo collar",
+          "Collar + pendientes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal",
+          "Conjunto": "Solo collar"
+        },
+        "price_cents": 7490
+      },
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal",
+          "Conjunto": "Collar + pendientes"
+        },
+        "price_cents": 9390
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas",
+          "Conjunto": "Solo collar"
+        },
+        "price_cents": 1290
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas",
+          "Conjunto": "Collar + pendientes"
+        },
+        "price_cents": 1690
+      }
+    ],
+    "set_earrings_stone_cents": 2890,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-granate-perlas-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-flecos-verde-oliva",
+    "name": "Collar de flecos verde oliva",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      5,
+      8
+    ],
+    "description": "Collar ancho con una hilera de tubitos verde oliva colgando en forma de abanico, con cadena de ajuste en la parte trasera.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Verde oliva",
+        "hex": "#6b7a2a"
+      }
+    ],
+    "base_price_cents": 8490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 8490
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 1390
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": true,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-flecos-verde-oliva-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-rojo-cadena-dorada",
+    "name": "Collar largo rojo con cadena dorada",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Cadena dorada fina con una trenza de cuentas facetadas rojas y doradas en la parte delantera. Cierre de mosquetón.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Rojo y dorado",
+        "hex": "#b0182a"
+      }
+    ],
+    "base_price_cents": 5890,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 5890
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 990
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-rojo-cadena-dorada-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-azul-turquesa-negro",
+    "name": "Collar negro con flores turquesa",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Hilo de cuentas negras muy pequeñas con flores de cuentas turquesa en el centro. Ligero y fácil de combinar.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Negro y turquesa",
+        "hex": "#2a8fa8"
+      }
+    ],
+    "base_price_cents": 4990,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 4990
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 790
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-azul-turquesa-negro-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-perlas-granate",
+    "name": "Collar babero de perlas y gotas granate",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      5,
+      8
+    ],
+    "description": "Collar ancho de perlas blancas con gotas granate alargadas en el centro. Una pieza de ocasión especial.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Crudo y granate",
+        "hex": "#8a1c33"
+      }
+    ],
+    "base_price_cents": 9490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 9490
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 1590
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": true,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-perlas-granate-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-perlas-cristal-verde",
+    "name": "Collar de perlas y cristal verde con colgante",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Eslabones de perlas blancas con cuentas verdes y un colgante de perla y cuenta verde. Lo puedes pedir con los pendientes a juego.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Blanco y verde",
+        "hex": "#4aa57a"
+      }
+    ],
+    "base_price_cents": 6990,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      },
+      {
+        "name": "Conjunto",
+        "required": true,
+        "values": [
+          "Solo collar",
+          "Collar + pendientes"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal",
+          "Conjunto": "Solo collar"
+        },
+        "price_cents": 6990
+      },
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal",
+          "Conjunto": "Collar + pendientes"
+        },
+        "price_cents": 8790
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas",
+          "Conjunto": "Solo collar"
+        },
+        "price_cents": 1190
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas",
+          "Conjunto": "Collar + pendientes"
+        },
+        "price_cents": 1590
+      }
+    ],
+    "set_earrings_stone_cents": 2790,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-perlas-cristal-verde-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-azul-cristal-negro",
+    "name": "Collar negro con cristales azules",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Hilo de cuentas negras con una fila de cristales azules colgando en la parte delantera y cierre plateado.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Negro y azul",
+        "hex": "#1f3f9a"
+      }
+    ],
+    "base_price_cents": 5290,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 5290
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 890
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-azul-cristal-negro-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "collar-dorado-gotas-verdes",
+    "name": "Collar dorado con gotas verdes",
+    "category": "collares",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      3,
+      5
+    ],
+    "description": "Collar fino de cuentas doradas con pequeñas gotas en forma de lágrima y cuentas verdes.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "length": "[CONFIRMAR largo]",
+    "colors": [
+      {
+        "name": "Dorado y verde",
+        "hex": "#c9a13a"
+      }
+    ],
+    "base_price_cents": 5490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 5490
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 890
+      }
+    ],
+    "set_earrings_stone_cents": null,
+    "statement": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "collar-dorado-gotas-verdes-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pulsera-perlas-cuatro-modelos",
+    "name": "Pulseras de perlas",
+    "category": "pulseras",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      4
+    ],
+    "description": "Cuatro pulseras planas de perlas con distintos entramados: dorado, crudo y blanco con plata. Elige el modelo y el material.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Crudo y dorado",
+        "hex": "#e8dcc0"
+      },
+      {
+        "name": "Blanco y plata",
+        "hex": "#eeeeee"
+      }
+    ],
+    "base_price_cents": 3490,
+    "option_groups": [
+      {
+        "name": "Modelo",
+        "required": true,
+        "values": [
+          "Modelo 1",
+          "Modelo 2",
+          "Modelo 3",
+          "Modelo 4"
+        ]
+      },
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Modelo": "Modelo 1",
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3490
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 1",
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 2",
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3490
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 2",
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 3",
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 3",
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 690
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 4",
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3690
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 4",
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pulsera-perlas-cuatro-modelos-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pulsera-perlas-azul-claro",
+    "name": "Pulsera de perlas y cuentas azul claro",
+    "category": "pulseras",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      4
+    ],
+    "description": "Pulsera larga y fina de perlas blancas con detalles azul claro y cierre de mosquetón.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Blanco y azul claro",
+        "hex": "#b9cfe8"
+      }
+    ],
+    "base_price_cents": 3290,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3290
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pulsera-perlas-azul-claro-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pulsera-ancha-ambar",
+    "name": "Pulsera ancha ámbar",
+    "category": "pulseras",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      4
+    ],
+    "description": "Pulsera ancha de cuentas en tonos ámbar y naranja, con un entramado en zigzag.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Ámbar",
+        "hex": "#e8a33a"
+      }
+    ],
+    "base_price_cents": 3690,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3690
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pulsera-ancha-ambar-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pulsera-flores-pastel",
+    "name": "Pulsera de flores pastel",
+    "category": "pulseras",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      4
+    ],
+    "description": "Pulsera elástica de pequeñas flores de cuentas en tonos pastel.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Pastel",
+        "hex": "#e9d6e6"
+      }
+    ],
+    "base_price_cents": 2990,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 2990
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pulsera-flores-pastel-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pulsera-negra-amarilla",
+    "name": "Pulsera negra y amarilla",
+    "category": "pulseras",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      4
+    ],
+    "description": "Pulsera de cuentas negras redondas sobre un entramado amarillo, con argolla dorada en un extremo.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Negro y amarillo",
+        "hex": "#f2c200"
+      }
+    ],
+    "base_price_cents": 3490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3490
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pulsera-negra-amarilla-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pulsera-perlas-negro-dorado",
+    "name": "Pulsera de perlas, negro y dorado",
+    "category": "pulseras",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      4
+    ],
+    "description": "Pulsera gruesa de perlas crudas con cuentas negras y doradas, con cierre dorado.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Crudo, negro y dorado",
+        "hex": "#d9c9a0"
+      }
+    ],
+    "base_price_cents": 4190,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 4190
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 690
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pulsera-perlas-negro-dorado-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pulsera-perlas-rojo-blanco-cierre",
+    "name": "Pulsera de perlas y rojo con cierre",
+    "category": "pulseras",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      4
+    ],
+    "description": "Pulsera de perlas blancas y cuentas rojas con cierre dorado de pestaña.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Blanco y rojo",
+        "hex": "#b0182a"
+      }
+    ],
+    "base_price_cents": 3990,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 690
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pulsera-perlas-rojo-blanco-cierre-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pulsera-elastica-rojo-blanco",
+    "name": "Pulsera elástica rojo y blanco",
+    "category": "pulseras",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      4
+    ],
+    "description": "Pulsera sencilla con perlas blancas y cuentas rojas facetadas alternas. Sin cierre, elástica.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Rojo y blanco",
+        "hex": "#d6213a"
+      }
+    ],
+    "base_price_cents": 2490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 2490
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pulsera-elastica-rojo-blanco-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pendientes-artesanales",
+    "name": "Pendientes artesanales",
+    "category": "pendientes",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      3
+    ],
+    "description": "Cuatro modelos de pendientes de cuentas: gotas ámbar, tubitos verdes y dos aros de cuentas en verde. Se venden por pares.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Ámbar",
+        "hex": "#a9561f"
+      },
+      {
+        "name": "Verde",
+        "hex": "#2f7a3a"
+      }
+    ],
+    "base_price_cents": 2690,
+    "option_groups": [
+      {
+        "name": "Modelo",
+        "required": true,
+        "values": [
+          "Modelo 1",
+          "Modelo 2",
+          "Modelo 3",
+          "Modelo 4"
+        ]
+      },
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Modelo": "Modelo 1",
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 2690
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 1",
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 2",
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 2490
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 2",
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 3",
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 2990
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 3",
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 4",
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 2790
+      },
+      {
+        "options": {
+          "Modelo": "Modelo 4",
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pendientes-artesanales-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "pendientes-largos-turquesa",
+    "name": "Pendientes largos turquesa",
+    "category": "pendientes",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      2,
+      3
+    ],
+    "description": "Pendientes muy largos de cuentas diminutas en turquesa, blanco y toques de naranja y rojo, con cono plateado.",
+    "care": "Evita el agua, los perfumes y las cremas. Guárdalo en una bolsita, separado de otras joyas.",
+    "colors": [
+      {
+        "name": "Turquesa",
+        "hex": "#2ab3b0"
+      }
+    ],
+    "base_price_cents": 3490,
+    "option_groups": [
+      {
+        "name": "Material",
+        "required": true,
+        "values": [
+          "Piedras, perlas y cristal",
+          "Cuentas acrílicas"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Material": "Piedras, perlas y cristal"
+        },
+        "price_cents": 3490
+      },
+      {
+        "options": {
+          "Material": "Cuentas acrílicas"
+        },
+        "price_cents": 590
+      }
+    ],
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "pendientes-largos-turquesa-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "bolso-crochet-cuadros",
+    "name": "Bolso de crochet a cuadros",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      7,
+      10
+    ],
+    "shipping_days": null,
+    "description": "Bolso de mano de crochet con cuadros en marrón y beige, dos asas y detalles dorados en los anclajes.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR hilo]",
+    "colors": [
+      {
+        "name": "Marrón y beige",
+        "hex": "#6b3a22"
+      }
+    ],
+    "base_price_cents": 7990,
+    "option_groups": [],
+    "variants": [
+      {
+        "options": {},
+        "price_cents": 7990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "bolso-crochet-cuadros-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "zapatillas-crochet",
+    "name": "Zapatillas de crochet",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      4,
+      6
+    ],
+    "shipping_days": null,
+    "description": "Zapatillas de casa de crochet con calados, en crudo y coral. Se hacen a tu talla.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR hilo]",
+    "colors": [
+      {
+        "name": "Crudo",
+        "hex": "#efe3cc"
+      },
+      {
+        "name": "Coral",
+        "hex": "#d9664f"
+      }
+    ],
+    "base_price_cents": 3990,
+    "option_groups": [
+      {
+        "name": "Color",
+        "required": true,
+        "values": [
+          "Crudo",
+          "Coral"
+        ]
+      },
+      {
+        "name": "Talla",
+        "required": true,
+        "values": [
+          "EU 36",
+          "EU 37",
+          "EU 38",
+          "EU 39",
+          "EU 40",
+          "EU 41"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Color": "Crudo",
+          "Talla": "EU 36"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Crudo",
+          "Talla": "EU 37"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Crudo",
+          "Talla": "EU 38"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Crudo",
+          "Talla": "EU 39"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Crudo",
+          "Talla": "EU 40"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Crudo",
+          "Talla": "EU 41"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Coral",
+          "Talla": "EU 36"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Coral",
+          "Talla": "EU 37"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Coral",
+          "Talla": "EU 38"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Coral",
+          "Talla": "EU 39"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Coral",
+          "Talla": "EU 40"
+        },
+        "price_cents": 3990
+      },
+      {
+        "options": {
+          "Color": "Coral",
+          "Talla": "EU 41"
+        },
+        "price_cents": 3990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "zapatillas-crochet-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "cartera-crochet",
+    "name": "Cartera de crochet con solapa",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      5,
+      7
+    ],
+    "shipping_days": null,
+    "description": "Cartera de mano de crochet con solapa ondulada y un botón. La puedes elegir en marrón o en rosa.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR hilo]",
+    "colors": [
+      {
+        "name": "Marrón",
+        "hex": "#6b2f1a"
+      },
+      {
+        "name": "Rosa",
+        "hex": "#e7439a"
+      }
+    ],
+    "base_price_cents": 4990,
+    "option_groups": [
+      {
+        "name": "Color",
+        "required": true,
+        "values": [
+          "Marrón",
+          "Rosa"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Color": "Marrón"
+        },
+        "price_cents": 4990
+      },
+      {
+        "options": {
+          "Color": "Rosa"
+        },
+        "price_cents": 4990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "cartera-crochet-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "top-crochet-halter-crudo",
+    "name": "Top halter de crochet crudo",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      4,
+      6
+    ],
+    "shipping_days": null,
+    "description": "Top halter de crochet con calado central y borde ondulado, atado al cuello.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR hilo]",
+    "colors": [
+      {
+        "name": "Crudo",
+        "hex": "#efe3cc"
+      }
+    ],
+    "base_price_cents": 5990,
+    "option_groups": [
+      {
+        "name": "Talla",
+        "required": true,
+        "values": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Talla": "XS"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Talla": "S"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Talla": "M"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Talla": "L"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Talla": "XL"
+        },
+        "price_cents": 5990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": false,
+    "images": [
+      {
+        "file": "top-crochet-halter-crudo-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "vestido-macrame-crudo",
+    "name": "Vestido halter de macramé",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      8,
+      10
+    ],
+    "shipping_days": null,
+    "description": "Vestido de cuello halter anudado, con escote en gota y flecos largos en la falda. Lo hacemos a tu talla.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR cuerda]",
+    "colors": [
+      {
+        "name": "Crudo",
+        "hex": "#efe6d2"
+      }
+    ],
+    "base_price_cents": 12990,
+    "option_groups": [
+      {
+        "name": "Talla",
+        "required": true,
+        "values": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Talla": "XS"
+        },
+        "price_cents": 12990
+      },
+      {
+        "options": {
+          "Talla": "S"
+        },
+        "price_cents": 12990
+      },
+      {
+        "options": {
+          "Talla": "M"
+        },
+        "price_cents": 12990
+      },
+      {
+        "options": {
+          "Talla": "L"
+        },
+        "price_cents": 12990
+      },
+      {
+        "options": {
+          "Talla": "XL"
+        },
+        "price_cents": 12990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "vestido-macrame-crudo-1",
+        "role": "main",
+        "cover": true
+      },
+      {
+        "file": "vestido-macrame-crudo-2",
+        "role": "worn",
+        "cover": false
+      },
+      {
+        "file": "vestido-macrame-crudo-3",
+        "role": "detail",
+        "cover": false
+      },
+      {
+        "file": "vestido-macrame-crudo-4",
+        "role": "detail",
+        "cover": false
+      },
+      {
+        "file": "vestido-macrame-crudo-5",
+        "role": "detail-texture",
+        "cover": false
+      },
+      {
+        "file": "vestido-macrame-crudo-6",
+        "role": "detail",
+        "cover": false
+      }
+    ]
+  },
+  {
+    "slug": "jersey-poncho-crochet-rosa",
+    "name": "Jersey poncho de crochet con borlas",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      8,
+      10
+    ],
+    "shipping_days": null,
+    "description": "Jersey amplio de punto calado con cuello de pico y borlas en el bajo. Ligero y fácil de combinar.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR hilo]",
+    "colors": [
+      {
+        "name": "Rosa palo",
+        "hex": "#e3a39c"
+      }
+    ],
+    "base_price_cents": 7990,
+    "option_groups": [
+      {
+        "name": "Talla",
+        "required": true,
+        "values": [
+          "S/M",
+          "L/XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Talla": "S/M"
+        },
+        "price_cents": 7990
+      },
+      {
+        "options": {
+          "Talla": "L/XL"
+        },
+        "price_cents": 7990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "jersey-poncho-crochet-rosa-1",
+        "role": "main",
+        "cover": true
+      },
+      {
+        "file": "jersey-poncho-crochet-rosa-2",
+        "role": "flat",
+        "cover": false
+      },
+      {
+        "file": "jersey-poncho-crochet-rosa-3",
+        "role": "detail",
+        "cover": false
+      }
+    ]
+  },
+  {
+    "slug": "conjunto-top-verde-falda-beige",
+    "name": "Conjunto de top verde y falda larga",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      9,
+      10
+    ],
+    "shipping_days": null,
+    "description": "Top halter de crochet con abertura y flecos, y falda larga de punto calado en tono beige rosado. Se hace a tu talla.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR hilo]",
+    "colors": [
+      {
+        "name": "Verde petróleo y beige",
+        "hex": "#1f5a57"
+      }
+    ],
+    "base_price_cents": 13990,
+    "option_groups": [
+      {
+        "name": "Talla",
+        "required": true,
+        "values": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Talla": "XS"
+        },
+        "price_cents": 13990
+      },
+      {
+        "options": {
+          "Talla": "S"
+        },
+        "price_cents": 13990
+      },
+      {
+        "options": {
+          "Talla": "M"
+        },
+        "price_cents": 13990
+      },
+      {
+        "options": {
+          "Talla": "L"
+        },
+        "price_cents": 13990
+      },
+      {
+        "options": {
+          "Talla": "XL"
+        },
+        "price_cents": 13990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "conjunto-top-verde-falda-beige-1",
+        "role": "main",
+        "cover": true
+      },
+      {
+        "file": "conjunto-top-verde-falda-beige-2",
+        "role": "worn",
+        "cover": false
+      },
+      {
+        "file": "conjunto-top-verde-falda-beige-3",
+        "role": "angle",
+        "cover": false
+      },
+      {
+        "file": "conjunto-top-verde-falda-beige-4",
+        "role": "detail",
+        "cover": false
+      }
+    ]
+  },
+  {
+    "slug": "top-crochet-conchas-crudo",
+    "name": "Top concha de crochet",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      5,
+      7
+    ],
+    "shipping_days": null,
+    "description": "Top corto con copas en forma de concha y borde ondulado de crochet.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR hilo]",
+    "colors": [
+      {
+        "name": "Crudo",
+        "hex": "#f0e8da"
+      }
+    ],
+    "base_price_cents": 5990,
+    "option_groups": [
+      {
+        "name": "Talla",
+        "required": true,
+        "values": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Talla": "XS"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Talla": "S"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Talla": "M"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Talla": "L"
+        },
+        "price_cents": 5990
+      },
+      {
+        "options": {
+          "Talla": "XL"
+        },
+        "price_cents": 5990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "top-crochet-conchas-crudo-1",
+        "role": "main",
+        "cover": true
+      },
+      {
+        "file": "top-crochet-conchas-crudo-2",
+        "role": "detail",
+        "cover": false
+      }
+    ]
+  },
+  {
+    "slug": "top-crochet-terracota",
+    "name": "Bralette de crochet terracota",
+    "category": "tejidos-crochet",
+    "delivery_mode": "made_to_order",
+    "making_days": [
+      4,
+      6
+    ],
+    "shipping_days": null,
+    "description": "Bralette de crochet con tirantes anudados al cuello y banda calada en la parte inferior.",
+    "care": "Lavar a mano en frío y secar en plano. [CONFIRMAR hilo]",
+    "colors": [
+      {
+        "name": "Terracota",
+        "hex": "#b5643c"
+      }
+    ],
+    "base_price_cents": 4990,
+    "option_groups": [
+      {
+        "name": "Talla",
+        "required": true,
+        "values": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Talla": "XS"
+        },
+        "price_cents": 4990
+      },
+      {
+        "options": {
+          "Talla": "S"
+        },
+        "price_cents": 4990
+      },
+      {
+        "options": {
+          "Talla": "M"
+        },
+        "price_cents": 4990
+      },
+      {
+        "options": {
+          "Talla": "L"
+        },
+        "price_cents": 4990
+      },
+      {
+        "options": {
+          "Talla": "XL"
+        },
+        "price_cents": 4990
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "top-crochet-terracota-1",
+        "role": "main",
+        "cover": true
+      }
+    ]
+  },
+  {
+    "slug": "alfombra-roja-geometrica",
+    "name": "Alfombra roja geométrica",
+    "category": "alfombras-kilims",
+    "delivery_mode": "shipped",
+    "making_days": null,
+    "shipping_days": [
+      15,
+      30
+    ],
+    "description": "Alfombra de seda anudada a mano. Campo rojo con motivos geométricos repetidos y varias cenefas, con flecos en los extremos. Origen: [CONFIRMAR].",
+    "care": "Aspirar con succión suave, sin cepillo giratorio; evitar el sol directo y la humedad; limpieza profesional recomendada. [CONFIRMAR cuidados]",
+    "colors": [
+      {
+        "name": "Como en la foto",
+        "hex": "#9a2f2a"
+      }
+    ],
+    "base_price_cents": 98000,
+    "option_groups": [
+      {
+        "name": "Tipo",
+        "required": true,
+        "values": [
+          "Hecha a mano en seda",
+          "Industrial (a máquina), a medida"
+        ],
+        "quote_values": [
+          "Industrial (a máquina), a medida"
+        ]
+      },
+      {
+        "name": "Medida",
+        "required": true,
+        "values": [
+          "100 × 150 cm [CONFIRMAR]",
+          "150 × 200 cm [CONFIRMAR]",
+          "200 × 300 cm [CONFIRMAR]"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Tipo": "Hecha a mano en seda",
+          "Medida": "100 × 150 cm [CONFIRMAR]"
+        },
+        "price_cents": 52000
+      },
+      {
+        "options": {
+          "Tipo": "Hecha a mano en seda",
+          "Medida": "150 × 200 cm [CONFIRMAR]"
+        },
+        "price_cents": 98000
+      },
+      {
+        "options": {
+          "Tipo": "Hecha a mano en seda",
+          "Medida": "200 × 300 cm [CONFIRMAR]"
+        },
+        "price_cents": 195000
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "alfombra-roja-geometrica-1",
+        "role": "main",
+        "cover": true
+      },
+      {
+        "file": "alfombra-roja-geometrica-2",
+        "role": "alt",
+        "cover": false
+      }
+    ]
+  },
+  {
+    "slug": "alfombra-medallon-negro",
+    "name": "Alfombra medallón negro",
+    "category": "alfombras-kilims",
+    "delivery_mode": "shipped",
+    "making_days": null,
+    "shipping_days": [
+      15,
+      30
+    ],
+    "description": "Alfombra de seda anudada a mano. Medallón central sobre fondo negro, con flores en azul, granate y marfil y un marco de cenefas. Origen: [CONFIRMAR].",
+    "care": "Aspirar con succión suave, sin cepillo giratorio; evitar el sol directo y la humedad; limpieza profesional recomendada. [CONFIRMAR cuidados]",
+    "colors": [
+      {
+        "name": "Como en la foto",
+        "hex": "#1b1a24"
+      }
+    ],
+    "base_price_cents": 115000,
+    "option_groups": [
+      {
+        "name": "Tipo",
+        "required": true,
+        "values": [
+          "Hecha a mano en seda",
+          "Industrial (a máquina), a medida"
+        ],
+        "quote_values": [
+          "Industrial (a máquina), a medida"
+        ]
+      },
+      {
+        "name": "Medida",
+        "required": true,
+        "values": [
+          "80 × 150 cm [CONFIRMAR]",
+          "150 × 200 cm [CONFIRMAR]",
+          "200 × 300 cm [CONFIRMAR]"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Tipo": "Hecha a mano en seda",
+          "Medida": "80 × 150 cm [CONFIRMAR]"
+        },
+        "price_cents": 52000
+      },
+      {
+        "options": {
+          "Tipo": "Hecha a mano en seda",
+          "Medida": "150 × 200 cm [CONFIRMAR]"
+        },
+        "price_cents": 115000
+      },
+      {
+        "options": {
+          "Tipo": "Hecha a mano en seda",
+          "Medida": "200 × 300 cm [CONFIRMAR]"
+        },
+        "price_cents": 230000
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "alfombra-medallon-negro-1",
+        "role": "main",
+        "cover": true
+      },
+      {
+        "file": "alfombra-medallon-negro-2",
+        "role": "alt",
+        "cover": false
+      }
+    ]
+  },
+  {
+    "slug": "alfombra-tribal-rojo",
+    "name": "Alfombra tribal de rombo",
+    "category": "alfombras-kilims",
+    "delivery_mode": "shipped",
+    "making_days": null,
+    "shipping_days": [
+      15,
+      30
+    ],
+    "description": "Alfombra de seda anudada a mano. Rombo central escalonado en rojo y negro, con pequeñas figuras geométricas alrededor y flecos en los extremos. Origen: [CONFIRMAR].",
+    "care": "Aspirar con succión suave, sin cepillo giratorio; evitar el sol directo y la humedad; limpieza profesional recomendada. [CONFIRMAR cuidados]",
+    "colors": [
+      {
+        "name": "Como en la foto",
+        "hex": "#a3402f"
+      }
+    ],
+    "base_price_cents": 105000,
+    "option_groups": [
+      {
+        "name": "Tipo",
+        "required": true,
+        "values": [
+          "Hecha a mano en seda",
+          "Industrial (a máquina), a medida"
+        ],
+        "quote_values": [
+          "Industrial (a máquina), a medida"
+        ]
+      },
+      {
+        "name": "Medida",
+        "required": true,
+        "values": [
+          "100 × 150 cm [CONFIRMAR]",
+          "150 × 200 cm [CONFIRMAR]"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Tipo": "Hecha a mano en seda",
+          "Medida": "100 × 150 cm [CONFIRMAR]"
+        },
+        "price_cents": 56000
+      },
+      {
+        "options": {
+          "Tipo": "Hecha a mano en seda",
+          "Medida": "150 × 200 cm [CONFIRMAR]"
+        },
+        "price_cents": 105000
+      }
+    ],
+    "featured": false,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "alfombra-tribal-rojo-1",
+        "role": "main",
+        "cover": true
+      },
+      {
+        "file": "alfombra-tribal-rojo-2",
+        "role": "alt",
+        "cover": false
+      }
+    ]
+  },
+  {
+    "slug": "kilim-multicolor",
+    "name": "Kilim de rombos de colores",
+    "category": "alfombras-kilims",
+    "delivery_mode": "shipped",
+    "making_days": null,
+    "shipping_days": [
+      15,
+      30
+    ],
+    "description": "Tejido plano con rombos en rojo, turquesa, naranja y magenta sobre fondo marfil, con flecos [CONFIRMAR material y técnica].",
+    "care": "Aspirar con succión suave. [CONFIRMAR]",
+    "colors": [
+      {
+        "name": "Multicolor (como en la foto)",
+        "hex": "#c4553d"
+      }
+    ],
+    "base_price_cents": 29000,
+    "option_groups": [
+      {
+        "name": "Medida",
+        "required": true,
+        "values": [
+          "80 × 150 cm [CONFIRMAR]",
+          "120 × 180 cm [CONFIRMAR]",
+          "160 × 230 cm [CONFIRMAR]"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "options": {
+          "Medida": "80 × 150 cm [CONFIRMAR]"
+        },
+        "price_cents": 19000
+      },
+      {
+        "options": {
+          "Medida": "120 × 180 cm [CONFIRMAR]"
+        },
+        "price_cents": 29000
+      },
+      {
+        "options": {
+          "Medida": "160 × 230 cm [CONFIRMAR]"
+        },
+        "price_cents": 44000
+      }
+    ],
+    "featured": true,
+    "status": "draft",
+    "needs_real_photo": true,
+    "images": [
+      {
+        "file": "kilim-multicolor-1",
+        "role": "main",
+        "cover": true
+      },
+      {
+        "file": "kilim-multicolor-2",
+        "role": "alt",
+        "cover": false
+      }
+    ]
+  }
+]

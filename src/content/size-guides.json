@@ -1,0 +1,108 @@
+{
+  "collares": {
+    "title": "Collares: largo",
+    "intro": "El largo se mide a lo largo del collar, de un extremo a otro del cierre. Elige el tipo según dónde quieres que caiga.",
+    "table": {
+      "head": ["Tipo", "Largo", "Dónde cae"],
+      "rows": [
+        ["Gargantilla", "35–40 cm", "Ajustado al cuello"],
+        ["Princesa", "43–48 cm", "Sobre la clavícula"],
+        ["Matinée", "50–60 cm", "Entre la clavícula y el pecho"],
+        ["Ópera", "70–90 cm", "Sobre el pecho, hacia la cintura"],
+        ["Sautoir", "90+ cm", "Muy largo; se puede llevar doblado"]
+      ]
+    },
+    "diagram": "neckline",
+    "steps": null
+  },
+  "pulseras": {
+    "title": "Pulseras: talla",
+    "intro": "Mide tu muñeca y elige la talla de la pulsera. Si estás entre dos tallas, elige la mayor para llevarla más suelta.",
+    "table": {
+      "head": ["Talla", "Muñeca", "Pulsera"],
+      "rows": [
+        ["S", "14–15 cm", "16–17 cm"],
+        ["M", "15–16,5 cm", "17,5–18,5 cm"],
+        ["L", "16,5–18 cm", "19–20 cm"],
+        ["XL", "18–19,5 cm", "20,5–21,5 cm"]
+      ]
+    },
+    "stepsTitle": "Cómo medir tu muñeca",
+    "steps": [
+      "Corta una tira de papel de unos 1,5 cm de ancho y 25 cm de largo.",
+      "Rodea tu muñeca con la tira, justo donde llevarás la pulsera.",
+      "Marca con un lápiz el punto donde el papel se cruza.",
+      "Estira la tira y mide con una regla hasta la marca: esa es tu muñeca.",
+      "Busca tu medida en la tabla."
+    ]
+  },
+  "pendientes": {
+    "title": "Pendientes: caída y peso",
+    "intro": "Cada pendiente indica en «Medidas» su caída (el largo desde el gancho hasta el final) y su peso. Los más largos pesan algo más.",
+    "table": null,
+    "steps": null
+  },
+  "ropa": {
+    "title": "Ropa de crochet: tallas",
+    "intro": "Tallas europeas de mujer, con las medidas del cuerpo en cm. Si estás entre dos tallas, elige la mayor.",
+    "table": {
+      "head": ["Talla", "Busto", "Cintura", "Cadera"],
+      "rows": [
+        ["XS (34)", "80–84", "62–66", "88–92"],
+        ["S (36)", "84–88", "66–70", "92–96"],
+        ["M (38)", "88–92", "70–74", "96–100"],
+        ["L (40)", "92–98", "74–80", "100–106"],
+        ["XL (42)", "98–104", "80–86", "106–112"]
+      ]
+    },
+    "stepsTitle": "Cómo medirte",
+    "steps": [
+      "Busto: rodea la parte más ancha del pecho con la cinta, sin apretar.",
+      "Cintura: mide la parte más estrecha del torso.",
+      "Cadera: rodea la parte más ancha de las caderas.",
+      "Si ninguna talla te encaja, elige «A medida» y escribe tus tres medidas en cm (entre 60 y 150)."
+    ]
+  },
+  "zapatillas": {
+    "title": "Zapatillas: talla",
+    "intro": "Tallas europeas con el largo del pie en cm.",
+    "table": {
+      "head": ["Talla EU", "Largo del pie"],
+      "rows": [
+        ["36", "23 cm"],
+        ["37", "23,5 cm"],
+        ["38", "24 cm"],
+        ["39", "25 cm"],
+        ["40", "25,5 cm"],
+        ["41", "26 cm"]
+      ]
+    },
+    "stepsTitle": "Cómo medir tu pie",
+    "steps": [
+      "Apoya el talón contra una pared, de pie sobre una hoja de papel.",
+      "Marca en el papel el punto del dedo más largo.",
+      "Mide con una regla del borde del papel a la marca y busca esa medida en la tabla."
+    ]
+  },
+  "bolsos": {
+    "title": "Bolsos: medidas",
+    "intro": "Cada bolso indica en «Medidas» ancho × alto × fondo y la caída del asa.",
+    "table": null,
+    "stepsTitle": "Cómo leer las medidas",
+    "steps": [
+      "Ancho: de lado a lado, en la parte más ancha.",
+      "Alto: del suelo a la parte superior, sin contar el asa.",
+      "Fondo: de delante a atrás, en la base.",
+      "Caída del asa: del punto más alto del asa, estirada, al borde superior del bolso."
+    ]
+  },
+  "alfombras": {
+    "title": "Alfombras y kilims: medidas",
+    "intro": "Medidas habituales, ancho × largo en cm. Cada alfombra indica sus medidas exactas en su ficha.",
+    "table": {
+      "head": ["Medida"],
+      "rows": [["60 × 90 cm"], ["80 × 150 cm"], ["120 × 170 cm"], ["160 × 230 cm"], ["200 × 300 cm"], ["Pasillo 80 × 250 cm"]]
+    },
+    "steps": null
+  }
+}

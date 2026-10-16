@@ -1,0 +1,38 @@
+[
+ {
+  "form": "mobile",
+  "name": "home",
+  "perf": 90,
+  "a11y": 100,
+  "bp": 100,
+  "seo": 100,
+  "lcp": 3582,
+  "cls": 0,
+  "tbt": 32,
+  "fails": [
+   "largest-contentful-paint",
+   "unused-javascript",
+   "image-delivery-insight",
+   "legacy-javascript-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ {
+  "form": "desktop",
+  "name": "home",
+  "perf": 100,
+  "a11y": 100,
+  "bp": 100,
+  "seo": 100,
+  "lcp": 791,
+  "cls": 0,
+  "tbt": 0,
+  "fails": [
+   "unused-javascript",
+   "legacy-javascript-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ }
+]

@@ -1,0 +1,192 @@
+@import 'tailwindcss';
+
+/* Firuza 2026 tokens v3 "Granada y turquesa" (design/firuza-2026/tokens.json). Light by default, dark via [data-theme="dark"].
+   New names: turquesa, turquesa-ink, granada, azafran, tile-*. The old names (firuza, anar, saffron, lapis, rosa) stay as aliases so nothing breaks. */
+:root,
+[data-theme="light"] {
+  --ground: #fff4ec;
+  --surface-200: #fbe8d8;
+  --surface-photo: #fbf8f3;
+  --line: #ecd5c4;
+  --ink: #2a1418;
+  --ink-muted: #6b4f52;
+  --turquesa: #1a9e96;
+  --turquesa-ink: #0f7d76;
+  --granada: #a3262a;
+  --azafran: #f2a33a;
+  /* fixed block fills (same in both themes) so white text on them keeps its contrast */
+  --block-turquesa-ink: #0f7d76;
+  --block-granada: #a3262a;
+  --tile-turquesa: #d4efec;
+  --tile-granada: #fbd9d5;
+  --tile-menta: #d9f1ee;
+  --tile-azafran: #fde3cf;
+  --tile-rosa: #f7dcd8;
+  --tile-agua: #cfece8;
+  --tile-crema: #fde9d9;
+  /* aliases */
+  --firuza: var(--turquesa);
+  --firuza-ink: var(--turquesa-ink);
+  --on-firuza-ink: #ffffff;
+  --lapis: var(--block-granada);
+  --on-lapis: #ffffff;
+  --saffron: var(--azafran);
+  --anar: var(--granada);
+  --anar-text: var(--granada); /* text on ground */
+  --anar-deep: var(--block-granada);
+  --on-anar: #ffffff;
+  --rosa: #e06b66;
+  --on-block: #2a1418;
+  --shadow-lift: 0 10px 0 -2px #2a1418;
+  --tint: color-mix(in srgb, var(--turquesa) 16%, var(--ground));
+  color-scheme: light;
+}
+[data-theme="dark"] {
+  --ground: #1c1416;
+  --surface-200: #2a1d20;
+  --line: #43303a;
+  --ink: #fbf1e4;
+  --ink-muted: #cdb9b4;
+  --turquesa: #2cc3bc;
+  --turquesa-ink: #4fd6ce;
+  --granada: #ff8f8a;
+  --azafran: #f2a33a;
+  --on-firuza-ink: #1c1416;
+  --on-lapis: #ffffff;
+  --anar-text: #ff9a94;
+  --on-block: #2a1418;
+  --shadow-lift: 0 10px 0 -2px #000000;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-ground: var(--ground);
+  --color-surface: var(--surface-200);
+  --color-photo: var(--surface-photo);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-firuza: var(--firuza);
+  --color-firuza-ink: var(--firuza-ink);
+  --color-on-firuza-ink: var(--on-firuza-ink);
+  --color-lapis: var(--lapis);
+  --color-on-lapis: var(--on-lapis);
+  --color-saffron: var(--saffron);
+  --color-anar: var(--anar);
+  --color-anar-text: var(--anar-text);
+  --color-anar-deep: var(--anar-deep);
+  --color-on-anar: var(--on-anar);
+  --color-rosa: var(--rosa);
+  --color-on-block: var(--on-block);
+  --color-turquesa: var(--turquesa);
+  --color-turquesa-ink: var(--turquesa-ink);
+  --color-granada: var(--block-granada);
+  --color-azafran: var(--azafran);
+  --color-block-teal: var(--block-turquesa-ink);
+  --color-tile-turquesa: var(--tile-turquesa);
+  --color-tile-granada: var(--tile-granada);
+  --color-tile-menta: var(--tile-menta);
+  --color-tile-azafran: var(--tile-azafran);
+  --color-tile-rosa: var(--tile-rosa);
+  --color-tile-agua: var(--tile-agua);
+  --color-tile-crema: var(--tile-crema);
+  /* legacy names used across the shop and admin, now pointing at the new tokens */
+  --color-cotton: var(--ground);
+  --color-paper: var(--surface-200);
+  --color-muted: var(--ink-muted);
+  --color-turq: var(--firuza-ink);
+  --color-turq-brand: var(--firuza);
+  --color-turq-dark: var(--firuza-ink);
+  --color-turq-tint: var(--tint);
+  --color-saffron-text: var(--ink);
+  --color-madder: var(--anar-text);
+  --font-display: var(--font-bricolage), 'Arial Narrow', system-ui, sans-serif;
+  --font-serif: var(--font-bricolage), 'Arial Narrow', system-ui, sans-serif;
+  --font-sans: var(--font-karla), 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: var(--font-dm-mono), ui-monospace, Menlo, monospace;
+  --breakpoint-wide: 75rem;
+  --radius-sm: 6px;
+  --radius-lg: 28px;
+  --radius-bead: 999px;
+}
+
+@layer base {
+  html { background: var(--ground); }
+  body { background: var(--ground); color: var(--ink); font-family: var(--font-sans); line-height: 1.6; -webkit-font-smoothing: antialiased; }
+  h1, h2, h3 { font-family: var(--font-display); font-weight: 750; line-height: 1.05; letter-spacing: -0.02em; text-wrap: balance; }
+  a { color: var(--firuza-ink); text-decoration: underline; text-underline-offset: 3px; }
+  a:hover { color: var(--ink); }
+  :focus-visible { outline: 3px solid var(--firuza-ink); outline-offset: 3px; }
+  input, select, textarea { border-radius: var(--radius-sm); }
+}
+
+@layer components {
+  .label { font-size: 13px; font-weight: 700; line-height: 1.2; letter-spacing: 0.08em; text-transform: uppercase; }
+  .data { font-family: var(--font-mono); font-size: 14px; font-weight: 500; line-height: 1.3; font-variant-numeric: tabular-nums; }
+  .btn { display: inline-flex; min-height: 48px; align-items: center; justify-content: center; gap: 10px; border: 2px solid var(--firuza-ink); border-radius: var(--radius-bead); padding: 0 26px; font-size: 13px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; text-decoration: none; transition: background 0.2s, color 0.2s, border-color 0.2s; }
+  .btn-primary { background: var(--firuza-ink); color: var(--on-firuza-ink); }
+  .btn-primary:hover { background: var(--ink); border-color: var(--ink); color: var(--ground); }
+  .btn-secondary { border-color: var(--ink-muted); color: var(--ink); background: transparent; }
+  .btn-secondary:hover { background: var(--surface-200); color: var(--ink); }
+  .btn-whatsapp { border-color: var(--surface-200); background: var(--surface-200); color: var(--ink); }
+  .btn-whatsapp::before { content: ''; width: 9px; height: 9px; border-radius: 50%; background: var(--saffron); }
+  .btn-whatsapp:hover { border-color: var(--ink-muted); color: var(--ink); }
+  .btn-dark { background: var(--ink); border-color: var(--ink); color: var(--ground); }
+  .btn-dark:hover { color: var(--ground); }
+  .kilim { height: 14px; background-repeat: repeat-x; background-size: 28px 14px; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='14' viewBox='0 0 28 14'%3E%3Cpath d='M0 7 7 0l7 7-7 7z' fill='none' stroke='%231A9E96' stroke-width='1.4'/%3E%3Cpath d='M14 7l7-7 7 7-7 7z' fill='%231A9E96'/%3E%3Ccircle cx='7' cy='7' r='1.8' fill='%23A3262A'/%3E%3Ccircle cx='21' cy='7' r='1.4' fill='%23F2A33A'/%3E%3C/svg%3E"); }
+  .kilim-thin { height: 9px; background-size: 18px 9px; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='9' viewBox='0 0 18 9'%3E%3Cpath d='M0 4.5 4.5 0 9 4.5 4.5 9z' fill='none' stroke='%231A9E96' stroke-width='1'/%3E%3Cpath d='M9 4.5 13.5 0 18 4.5 13.5 9z' fill='%231A9E96'/%3E%3C/svg%3E"); }
+  /* MOSAIC tile: pastel ground, the product photo blends into it with multiply (true colours, no saturated fill behind a photo) */
+  .tile { position: relative; display: block; overflow: hidden; border-radius: 26px; text-decoration: none; transition: transform 0.2s, box-shadow 0.2s; }
+  .tile:hover, .tile:focus-visible { transform: translateY(-4px); box-shadow: var(--shadow-lift); }
+  .tile img { mix-blend-mode: multiply; }
+  .tile-label { position: absolute; left: 14px; bottom: 14px; display: inline-flex; max-width: calc(100% - 28px); align-items: center; gap: 8px; border-radius: 999px; background: var(--ground); padding: 8px 14px 8px 12px; color: var(--ink); font-size: 14px; font-weight: 700; line-height: 1.2; }
+  .tile-label i { width: 12px; height: 12px; flex: none; border-radius: 50%; }
+  .tile img { object-fit: cover; }
+  .tile.fit-contain img { object-fit: contain; position: absolute; inset: auto 0 auto 0 !important; top: 50% !important; height: auto !important; aspect-ratio: 4 / 5; transform: translateY(-50%); -webkit-mask-image: linear-gradient(to bottom, transparent, #000 14%, #000 86%, transparent); mask-image: linear-gradient(to bottom, transparent, #000 14%, #000 86%, transparent); }
+  .tile.m-text, .tile.m-cta { display: flex; flex-direction: column; justify-content: space-between; gap: 14px; padding: clamp(20px, 2.4vw, 30px); }
+  .tile.m-text:hover, .tile.m-text:focus-visible { transform: none; box-shadow: none; }
+  .tile.m-cta { justify-content: center; }
+  /* MOSAIC layout. Phone: text tile, 2-column stack (necklace + one product wide), CTA full width. Tablet 640-1023: 4 columns. Desktop: 6 x 3. */
+  .mosaic { display: grid; gap: 12px; grid-template-columns: repeat(2, 1fr); grid-auto-rows: clamp(190px, 46vw, 260px); }
+  .mosaic > .m-text { grid-column: 1 / -1; grid-row: auto; }
+  .mosaic > .m-big { grid-column: 1 / -1; }
+  .mosaic > .m-bag, .mosaic > .m-ear { grid-row: span 2; }
+  .mosaic > .m-c { grid-column: 1 / -1; }
+  .mosaic > .m-d, .mosaic > .m-e, .mosaic > .m-f { display: none; }
+  .mosaic > .m-cta { grid-column: 1 / -1; min-height: 150px; }
+  @media (min-width: 640px) {
+    .mosaic { grid-template-columns: repeat(4, 1fr); grid-auto-rows: clamp(150px, 21vw, 220px); }
+    .mosaic > .m-text { grid-column: 3 / 5; grid-row: 1; min-height: 0; }
+    .mosaic > .m-big { grid-column: 1 / 3; grid-row: 1 / 3; }
+    .mosaic > .m-bag { grid-column: 3; grid-row: 2 / 4; }
+    .mosaic > .m-ear { grid-column: 4; grid-row: 2 / 4; }
+    .mosaic > .m-a { grid-column: 1; grid-row: 3; }
+    .mosaic > .m-b { grid-column: 2; grid-row: 3; }
+    .mosaic > .m-c { grid-column: auto; grid-row: 4; }
+    .mosaic > .m-d, .mosaic > .m-e, .mosaic > .m-f { display: block; grid-row: 4; }
+    .mosaic > .m-cta { grid-column: 1 / -1; grid-row: 5; min-height: 0; }
+  }
+  @media (min-width: 1024px) {
+    .mosaic { height: min(86vh, 760px); grid-template-columns: repeat(6, 1fr); grid-template-rows: repeat(3, 1fr); grid-auto-rows: auto; }
+    .mosaic > .m-text { grid-column: 3 / 5; grid-row: 1; }
+    .mosaic > .m-big { grid-column: 1 / 3; grid-row: 1 / 3; }
+    .mosaic > .m-bag { grid-column: 6; grid-row: 1 / 3; }
+    .mosaic > .m-ear { grid-column: 3; grid-row: 2 / 4; }
+    .mosaic > .m-a { grid-column: 5; grid-row: 1; }
+    .mosaic > .m-b { grid-column: 4; grid-row: 2; }
+    .mosaic > .m-c { grid-column: 5; grid-row: 2; }
+    .mosaic > .m-d { grid-column: 1; grid-row: 3; }
+    .mosaic > .m-e { grid-column: 2; grid-row: 3; }
+    .mosaic > .m-f { grid-column: 6; grid-row: 3; }
+    .mosaic > .m-cta { grid-column: 4 / 6; grid-row: 3; }
+  }
+  /* product photos always sit on the off-white they were shot on, in both themes */
+  .shadow-lift { box-shadow: var(--shadow-lift); }
+  .photo-frame { background: var(--surface-photo); border-radius: var(--radius-lg); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; }
+  .lift:hover .photo-frame, a.lift:hover > .photo-frame { transform: translateY(-4px); box-shadow: var(--shadow-lift); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }
+  .tile:hover, .tile:focus-visible { transform: none; }
+}

@@ -1,0 +1,16 @@
+# secrets
+.env
+.env.local
+.env.*.local
+# deps / build
+node_modules/
+.next/
+out/
+# os / editor
+.DS_Store
+Thumbs.db
+# scratch
+_work/
+
+# local Claude Code overrides
+.claude/settings.local.json
